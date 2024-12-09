@@ -18,3 +18,5 @@ python manage.py --help
 # run Django
 
 python manage.py runserver
+
+pip freeze > requirements.txt
