@@ -1,0 +1,20 @@
+# Create virtual environment
+
+python -m venv ~/.env/coffee_shop
+
+
+# Activate environment
+
+.\~\.env\coffee_shop\Scripts\activate
+
+# Install Django
+
+pip install Django
+
+django-admin startproject Coffe_Shop
+
+python manage.py --help
+
+# run Django
+
+python manage.py runserver

@@ -1,0 +1,14 @@
+{
+    "cSpell.words": [
+        "htmlcov",
+        "nosetests",
+        "pycache",
+        "pytest",
+        "scrapy",
+        "Scrapy",
+        "sdist",
+        "sqlite",
+        "staticfiles",
+        "webassets"
+    ]
+}
